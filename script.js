@@ -45,11 +45,3 @@ function ensureUI() {
     }
 }
 
-ensureUI();
-
-const startBtn = document.getElementById('start-btn');
-const quizContainer = document.getElementById('quiz-container');
-const questionEl = document.getElementById('question');
-const answersEl = document.getElementById('answers');
-const nextBtn = document.getElementById('next-btn');
-const timerEl = document.getElement
