@@ -44,4 +44,6 @@ function ensureUI() {
         document.body.appendChild(root);
     }
 }
+JSON.stringify(ensureUI());
 
+const startBtn = document.getElementById('start-btn');      
