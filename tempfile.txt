@@ -10,3 +10,5 @@ now to move this file to main branch
    add new brand 
    add file in it 
    merge it with the main 
+   and make new branch and see how iths work 
+   make branch for each feature and when we have finsl result then add it to the main 
