@@ -1,1 +1,5 @@
 hffjgjytjythffffffff
+jhjhj
+jfh
+this is file in another branch 
+in case i dont want it to be master or to be in the main branc yet
